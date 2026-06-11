@@ -196,13 +196,9 @@ Want to contribute? Right click on your card images in PayPal and copy the URL; 
 <details>
   <summary><i>US Bank</i></summary>
   <b>
-
-
-[Source](https://www.icloud.com/shortcuts/241b7488ebc3437aaedfaed8066a862a)
     
 |   | **URL** | **URL(Vertical)** |
 |---|---|---|
-|  | https://content.usbank.com/content/dam/content/images/en-us/global/cards/usbank/credit/legacy-visa/03-legacy-93300.png | https://content.usbank.com/content/dam/content/images/en-us/global/cards/usbank/credit/legacy-visa/03-legacy-93300-vert.png |
 | **AAA Cashback Visa Signature** | https://content.usbank.com/content/dam/content/images/en-us/global/cards/partner/acg/credit/aaa-cashback-visa-signature/chip-visa-aaa-cashback-signature.png | https://content.usbank.com |
 | **AAA Dollars Gas Rebate Visa** | https://content.usbank.com/content/dam/content/images/en-us/global/cards/partner/acg/credit/aaa-dollars-gas-rebate-visa/chip-visa-aaa-dollars-gas.png | https://content.usbank.com |
 | **AAA Dollars Plus Visa Signature** | https://content.usbank.com/content/dam/content/images/en-us/global/cards/partner/acg/credit/aaa-dollars-plus-visa-signature/chip-visa-aaa-dollars-plus-signature.png | https://content.usbank.com |
@@ -360,10 +356,13 @@ Want to contribute? Right click on your card images in PayPal and copy the URL; 
 | **U.S. Bank Triple Cash Rewards Visa Business Card** | https://content.usbank.com/content/dam/content/images/en-us/global/cards/usbank/credit/triple-cash-rewards-visa-business-card/chip-mid-text-visa-triple-cash-rewards-visa-business-card.png | https://content.usbank.com/content/dam/content/images/en-us/global/cards/usbank/credit/triple-cash-rewards-visa-business-card/vert-chip-mid-text-visa-triple-cash-rewards-visa-business-card.png |
 | **U.S. Bank Triple Cash Rewards Visa Business Card** | https://content.usbank.com/content/dam/content/images/en-us/global/cards/usbank/credit/triple-cash-rewards-visa-business-card/chip-mid-text-visa-triple-cash-rewards-visa-business-card.png | https://content.usbank.com/content/dam/content/images/en-us/global/cards/usbank/credit/triple-cash-rewards-visa-business-card/vert-chip-mid-text-visa-triple-cash-rewards-visa-business-card.png |
 | **U.S. Bank Triple Cash Rewards World Elite Mastercard** | https://content.usbank.com/content/dam/content/images/en-us/global/cards/usbank/credit/triple-cash-rewards-world-elite-mastercard/chip-mastercard-business-triple-cash-rewards-world-elite.png | https://content.usbank.com/content/dam/content/images/en-us/global/cards/usbank/credit/triple-cash-rewards-world-elite-mastercard/vert-chip-mastercard-business-triple-cash-rewards-world-elite.png |
+| **U.S. Bank Visa Card (Legacy)** | https://content.usbank.com/content/dam/content/images/en-us/global/cards/usbank/credit/legacy-visa/03-legacy-93300.png | https://content.usbank.com/content/dam/content/images/en-us/global/cards/usbank/credit/legacy-visa/03-legacy-93300-vert.png |
 | **U.S. Bank Visa Platinum Card** | https://content.usbank.com/content/dam/content/images/en-us/global/cards/usbank/credit/visa-platinum-card/chip-vert-text-visa-platinum-card.png | https://content.usbank.com/content/dam/content/images/en-us/global/cards/usbank/credit/visa-platinum-card/vert-chip-vert-text-visa-platinum-card.png |
 | **U.S. Bank VisaCommunity Card** | https://content.usbank.com/content/dam/content/images/en-us/global/cards/usbank/credit/community-card-visa-business/chip-visa-community-card.png | https://content.usbank.com/content/dam/content/images/en-us/global/cards/usbank/credit/community-card-visa-business/vert-chip-visa-community-card.png |
 | **U.S. Bank Business Altitude Power Visa Signature Credit Card** | https://content.usbank.com/content/dam/content/images/en-us/global/cards/usbank/credit/altitude-power-visa-signature-card/chip-altitude-power-visa.png | https://content.usbank.com/content/dam/content/images/en-us/global/cards/usbank/credit/altitude-power-visa-signature-card/vert-chip-altitude-power-visa.png |
 | **U.S. Bank Business Altitude Power Visa Signature Credit Card** | https://content.usbank.com/content/dam/content/images/en-us/global/cards/usbank/credit/altitude-power-visa-signature-card/chip-altitude-power-visa.png | https://content.usbank.com/content/dam/content/images/en-us/global/cards/usbank/credit/altitude-power-visa-signature-card/vert-chip-altitude-power-visa.png |
+
+\* [Source](https://www.icloud.com/shortcuts/241b7488ebc3437aaedfaed8066a862a)
     
 </b>
 </details>
