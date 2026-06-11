@@ -7,50 +7,68 @@ Add `.png` to the end of the file name after downloading.
 
 Want to contribute? Run [this shortcut](https://www.icloud.com/shortcuts/7cfcdf2bb9534f2d933f6b28cfcd464c) on your Mac.
 
-### United States
+<details open>
+  <summary>United States</summary>
+  
 |                         | URL                                                                                               |
 |-------------------------|---------------------------------------------------------------------------------------------------|
 | **Chase Unlimited Flex**    | https://pr-pod10-smp-device-asset.apple.com:443/broker/v1/assets/3a23e78ffabf4bbca5062e27bba68572 |
 | **Chase Freedom Unlimited** | https://pr-pod10-smp-device-asset.apple.com:443/broker/v1/assets/af527ef0dba147a7979ea19783815996 |
 | **Charles Schwab Bank**     | https://pr-pod10-smp-device-asset.apple.com:443/broker/v1/assets/66fa1a840fc7432ca9d4c6e82c5c7e50 |
 
+</details>
+
 # PayPal
 
 Want to contribute? Right click on your card images in PayPal and copy the URL; Create an [issue](https://github.com/Dr-Sauce/Cards/issues/new).
 
-### Australia
+<details>
+  <summary><i>Australia</i></summary>
+  <b>
 
 |  | URL |
 |---|---|
 | **Up Debit Card** | https://pics.paypal.com//00/s/OTY5WDE1MzZYUE5H/p/ZjI5Njc0YTUtZjBlOS00ODljLWEyMjgtYjc3MGExOGI5NTFj/image_140.png |
 
----
+</b> 
+</details>
 
-### Belarus
+<details>
+  <summary><i>Belarus</i></summary>
+  <b>
 
 |  | URL |
 |---|---|
 | **Priorbank Visa Classic** | https://pics.paypal.com//00/s/OTY5WDE1MzZYUE5H/p/NmFmMmM2MjAtYWNjNi00ZDM0LTg1YjQtMzBhODg3YWNmNWIw/image_140.png |
 
----
+</b> 
+</details>
 
-### France
+<details>
+  <summary><i>France</i></summary>
+  <b>
 
 |  | URL |
 |---|---|
 | **Caisse d'Epargne Debit Card** | https://pics.paypal.com//00/s/OTY5WDE1MzZYUE5H/p/N2JjYjA5YzYtZTY3NS00Mjg4LWE4NzYtNDVmMmQ5ZjVlMzUy/image_140.png |
 
----
+</b> 
+</details>
 
-### Israel
+<details>
+  <summary><i>Israel</i></summary>
+  <b>
 
 |  | URL |
 |---|---|
 | **One Zero Platinum Mastercard** | https://pics.paypal.com//00/s/OTY5WDE1MzZYUE5H/p/ODJhZDE3OWUtMDBmMS00MDkyLTg3ZjAtZjNiNWMyZDQ4Yjc3/image_140.png |
 
----
+</b> 
+</details>
 
-### Japan
+<details>
+  <summary><i>Japan</i></summary>
+  <b>
 
 |  | URL |
 |---|---|
@@ -59,34 +77,46 @@ Want to contribute? Right click on your card images in PayPal and copy the URL; 
 | **UC Gold Mastercard** | https://pics.paypal.com//00/s/OTY5WDE1MzZYUE5H/p/NzMxN2ZjZjUtZTA3Ni00MzMwLWE3YjItOWZlYjNhNzllMjEx/image_140.png |
 | **UC Mastercard** | https://pics.paypal.com//00/s/OTY5WDE1MzZYUE5H/p/ZTIwMGM1ZWQtMjc2OC00NGU2LTkwOTYtZmMwNTZkNDZjZWZm/image_140.png |
 
----
+</b> 
+</details>
 
-### Netherlands
+<details>
+  <summary><i>Netherlands</i></summary>
+  <b>
 
 |  | URL |
 |---|---|
 | **Bunq Credit Card** | https://pics.paypal.com//00/s/OTY5WDE1MzZYUE5H/p/NGMxNWQ1ZTItMTk4Yi00NDRkLTlkZmItYTNkZThmNTZlM2Yz/image_140.png |
 | **Bunq Debit Card** | https://pics.paypal.com//00/s/OTY5WDE1MzZYUE5H/p/Mzc0Mjc0YjQtMDMyZi00YTc1LWIzYjktMTE2MTFlYjc3NzA5/image_140.png |
 
----
+</b> 
+</details>
 
-### Panama
-
+<details>
+  <summary><i>Panama</i></summary>
+  <b>
+    
 |  | URL |
 |---|---|
 | **Banco General Visa 4you** | https://pics.paypal.com//00/s/OTY5WDE1MzZYUE5H/p/OGYwMDI0OTctMDM2Ni00NmYxLWJmMGUtZjdjNWM5NDQ0MWI0/image_140.png |
 
----
+</b> 
+</details>
 
-### Sweden
+<details>
+  <summary><i>Sweden</i></summary>
+  <b>
 
 |  | URL |
 |---|---|
 | **SEB Mastercard Debit** | https://pics.paypal.com//00/s/OTY5WDE1MzZYUE5H/p/ZDg0NjJiZGEtMmNmYi00YTM3LTgyMTgtZjQyYWRjN2JhZDAy/image_140.png |
 
----
+</b> 
+</details>
 
-### United Kingdom
+<details>
+  <summary><i>United Kingdom</i></summary>
+  <b>
 
 |  | URL |
 |---|---|
@@ -95,9 +125,11 @@ Want to contribute? Right click on your card images in PayPal and copy the URL; 
 | **Revolut Credit Card** | https://pics.paypal.com//00/s/OTY5WDE1MzZYUE5H/p/MDI4MmE4NmMtODM1MS00OTQ1LWE3YjctZjVkOWEyODllOTM2/image_140.png |
 | **Revolut Debit Card** | https://pics.paypal.com//00/s/OTY5WDE1MzZYUE5H/p/MDYxZDc3ZTMtNTRkNi00ODcyLWE0MjgtYTg3ODgyNDEzYzc3/image_140.png |
 
----
+</b> 
+</details>
 
-### United States
+<details open>
+  <summary>United States</summary>
 
 |  | URL |
 |---|---|
@@ -111,6 +143,7 @@ Want to contribute? Right click on your card images in PayPal and copy the URL; 
 | **Venmo Credit Card** | https://pics.paypal.com//00/s/OTY5WDE1MzZYUE5H/p/MzQzNTQ1ZTktNDc1ZC00ZDNkLTk3NGItZGQyOWNhMDNlYTlj/image_140.png |
 | **Well Fargos Platinum Debit Card** | https://pics.paypal.com//00/s/OTY5WDE1MzZYUE5H/p/ZGRiOGYzYzEtYWVhMS00NzVjLTlmNjMtNjUwOWI2ODJlZjYw/image_140.png |
 | **Whole Foods Market Visa** | https://pics.paypal.com//00/s/OTY5WDE1MzZYUE5H/p/MTcyODdhYmYtMTQzZS00ZjFiLWE3YzMtNTZlMGNmN2JlZTVh/image_140.png |
+</details>
 
 # ETC
 <details>
