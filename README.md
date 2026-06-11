@@ -20,7 +20,7 @@ Want to contribute? Run [this shortcut](https://www.icloud.com/shortcuts/7cfcdf2
 
 # PayPal
 
-Want to contribute? Right click on your card images in PayPal and copy the URL; Create an [issue](https://github.com/Dr-Sauce/Cards/issues/new).
+Want to contribute? Right click on your card images in PayPal and copy the URL; create an [issue](https://github.com/Dr-Sauce/Cards/issues/new).
 
 <details>
   <summary><i>Australia</i></summary>
