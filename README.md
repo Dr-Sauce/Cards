@@ -183,6 +183,7 @@ Want to contribute? Right click on your card images in PayPal and copy the URL; 
 | **Ink Business Unlimited** | https://asset.chase.com/content/services/rendition/image.big.png/unified-assets/digital-cards/chase-ink/41473417107.png |
 | **Marriott Bonvoy Boundless** | https://asset.chase.com/content/services/rendition/image.big.png/unified-assets/digital-cards/marriott/41473467001.png |
 | **Prime Visa** | https://asset.chase.com/content/services/rendition/image.big.png/unified-assets/digital-cards/amazon-prime/41473477020.png |
+| **Prime Visa (Old?)** | https://asset.chase.com/content/services/rendition/image.big.png/unified-assets/digital-cards/amazon-prime/41473477025.png |
 | **Sapphire Reserve for Business** | https://asset.chase.com/content/services/rendition/image.big.png/unified-assets/digital-cards/chase-sapphire-reserve/41473687025.png |
 | **Southwest Rapid Rewards Performance Business** | https://asset.chase.com/content/services/rendition/image.big.png/unified-assets/digital-cards/southwest-airlines/41473457039.png |
 | **Southwest Rapid Rewards Plus** | https://asset.chase.com/content/services/rendition/image.big.png/unified-assets/digital-cards/southwest-airlines/41473467073.png |
