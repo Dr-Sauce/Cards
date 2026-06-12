@@ -1,5 +1,7 @@
 # Cards
-High quality card images from Apple Pay, PayPal, and bank websites.
+Card images from Apple Pay, PayPal.
+
+<img width="100" height="100" alt="${f}" src="https://github.com/user-attachments/assets/7c50ccba-59cd-4591-89fb-084cf50761f0" />
 
 # Apple Pay
 
