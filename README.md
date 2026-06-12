@@ -5,7 +5,7 @@ High quality card images from Apple Pay, PayPal, and bank websites.
 
 Add `.png` to the end of the file name after downloading. 
 
-Want to contribute? Run [this shortcut](https://www.icloud.com/shortcuts/7cfcdf2bb9534f2d933f6b28cfcd464c) on your Mac.
+Want to contribute? Run [this shortcut](https://www.icloud.com/shortcuts/855ce7162b45400da58367dff5918364) on your Mac.
 
 <details open>
   <summary>United States</summary>
