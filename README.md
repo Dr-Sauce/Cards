@@ -146,6 +146,23 @@ Want to contribute? Right click on your card images in PayPal and copy the URL; 
 </details>
 
 # ETC
+
+<details>
+  <summary><i>American Express</i></summary>
+  <b>
+    
+|  | URL |
+|---|---|
+| **American Express Business Green** | https://www.americanexpress.com/content/dam/amex/en-us/business/business-solutions/2025/images/1916900_green_card.png |
+| **American Express Business Gold** | https://www.americanexpress.com/content/dam/amex/en-us/business/business-solutions/2025/images/1916900_gold_card.png |
+| **American Express Business Platinum** | https://www.americanexpress.com/content/dam/amex/en-us/business/business-solutions/2025/images/1916900_platinum_card.png |
+| **American Express Corporate Green** | https://www.americanexpress.com/content/dam/insurance/en-CA/corp_green_in_blank_690x435.png |
+| **American Express Corporate Gold** | https://www.americanexpress.com/content/dam/insurance/en-CA/corp_gold_de_no_cm_480x304.png |
+| **American Express Corporate Platinum** | https://www.americanexpress.com/content/dam/insurance/en-CA/corp_plat_de_blank_690x435.png |
+    
+</b>
+</details>
+
 <details>
   <summary><i>Chase</i></summary>
   <b>
