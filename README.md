@@ -152,6 +152,7 @@ Want to contribute? Right click on your card images in PayPal and copy the URL; 
 
 |  | URL |
 |---|---|
+| **Amazon Visa** | https://asset.chase.com/content/services/rendition/image.big.png/unified-assets/digital-cards/amazon/41473466007.png |
 | **Chase Freedom** | https://asset.chase.com/content/services/rendition/image.big.png/unified-assets/digital-cards/chase-freedom/freedom-5-percent/41473267053.png |
 | **Chase Freedom Flex** | https://asset.chase.com/content/services/rendition/image.big.png/unified-assets/digital-cards/chase-freedom/freedom-flex/54173667016.png |
 | **Chase Freedom Unlimited** | https://asset.chase.com/content/services/rendition/image.big.png/unified-assets/digital-cards/chase-freedom/freedom-unlimited/41473267054.png |
@@ -177,18 +178,24 @@ Want to contribute? Right click on your card images in PayPal and copy the URL; 
 | **Disney Inspire Visa Card - The Mandalorian** | https://asset.chase.com/content/services/rendition/image.big.png/unified-assets/card-art/disney/inspire/mandalorian/card_disney_inspire_mando_VS.png |
 | **Disney Inspire Visa Card - Up Adventure** | https://asset.chase.com/content/services/rendition/image.big.png/unified-assets/card-art/disney/inspire/up/card_disney_inspire_up_VS.png |
 | **IHG One Rewards Premier Business** | https://asset.chase.com/content/services/rendition/image.big.png/unified-assets/digital-cards/ihg/54173667002.png |
+| **IHG One Rewards Traveler** | https://asset.chase.com/content/services/rendition/image.big.png/unified-assets/digital-cards/ihg/54173667017.png |
+| **IHG One Rewards Traveler Business** | https://asset.chase.com/content/services/rendition/image.big.png/unified-assets/digital-cards/ihg/54173667001.png |
 | **Ink Business Cash** | https://asset.chase.com/content/services/rendition/image.big.png/unified-assets/digital-cards/chase-ink/41473467054.png |
 | **Ink Business Premier** | https://asset.chase.com/content/services/rendition/image.big.png/unified-assets/digital-cards/chase-ink/41473417111.png |
 | **Ink Business Preferred** | https://asset.chase.com/content/services/rendition/image.big.png/unified-assets/digital-cards/chase-ink/41473467055.png |
 | **Ink Business Unlimited** | https://asset.chase.com/content/services/rendition/image.big.png/unified-assets/digital-cards/chase-ink/41473417107.png |
+| **Marriott Bonvoy Bold** | https://asset.chase.com/content/services/rendition/image.big.png/unified-assets/digital-cards/marriott/41473467002.png |
 | **Marriott Bonvoy Boundless** | https://asset.chase.com/content/services/rendition/image.big.png/unified-assets/digital-cards/marriott/41473467001.png |
 | **Prime Visa** | https://asset.chase.com/content/services/rendition/image.big.png/unified-assets/digital-cards/amazon-prime/41473477020.png |
 | **Prime Visa (Old?)** | https://asset.chase.com/content/services/rendition/image.big.png/unified-assets/digital-cards/amazon-prime/41473477025.png |
 | **Sapphire Reserve for Business** | https://asset.chase.com/content/services/rendition/image.big.png/unified-assets/digital-cards/chase-sapphire-reserve/41473687025.png |
 | **Southwest Rapid Rewards Performance Business** | https://asset.chase.com/content/services/rendition/image.big.png/unified-assets/digital-cards/southwest-airlines/41473457039.png |
 | **Southwest Rapid Rewards Plus** | https://asset.chase.com/content/services/rendition/image.big.png/unified-assets/digital-cards/southwest-airlines/41473467073.png |
+| **Southwest Rapid Rewards Priority** | https://asset.chase.com/content/services/rendition/image.big.png/unified-assets/digital-cards/southwest-airlines/41473467025.png |
 | **The Ritz-Carlton Credit Card** | https://asset.chase.com/content/services/rendition/image.big.png/unified-assets/digital-cards/ritz-carlton/41473687002.png |
+| **United Explorer Card Club** | https://asset.chase.com/content/services/rendition/image.big.png/unified-assets/digital-cards/united-airlines/41473687003.png |
 | **United Explorer Card Explorer** | https://asset.chase.com/content/services/rendition/image.big.png/unified-assets/digital-cards/united-airlines/41473467059.png |
+| **United Explorer Card Gateway** | https://asset.chase.com/content/services/rendition/image.big.png/unified-assets/digital-cards/united-airlines/41473467065.png |
 | **United Explorer Card Quest** | https://asset.chase.com/content/services/rendition/image.big.png/unified-assets/digital-cards/united-airlines/41473467060.png |
 | **World of Hyatt Credit Card** | https://asset.chase.com/content/services/rendition/image.big.png/unified-assets/digital-cards/hyatt/41473467012.png |
 </b>
