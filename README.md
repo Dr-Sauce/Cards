@@ -364,6 +364,15 @@ Add `.png` to the end of the file name after downloading.
 </b>
 </details>
 
+<details>
+  <summary>ETC</summary>
+  
+|            | Apple Pay | Paypal | Charles Schwab |
+| ---------- | --------- | --------- | ------ |
+| **Charles Schwab Visa Platinum Debit Card** | https://pr-pod10-smp-device-asset.apple.com:443/broker/v1/assets/66fa1a840fc7432ca9d4c6e82c5c7e50 |        |        |
+
+</details>
+
 ## Want to help?
 
 **Apple Pay:** Run [this shortcut](https://www.icloud.com/shortcuts/855ce7162b45400da58367dff5918364) on your Mac.
