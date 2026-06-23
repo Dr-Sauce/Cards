@@ -11,109 +11,111 @@ Add `.png` to the end of the file name after downloading.
   <summary>Hyundai Card</summary>
   
 
+
 |                                             | Apple Pay | Hyundai Card                                                                |
 | ------------------------------------------- | --------- | --------------------------------------------------------------------------- |
-| the Black Edition1                          |           | https://www.hyundaicard.com/image/card/card_TBE2.png                        |
-| the Black Edition2                          |           | https://www.hyundaicard.com/image/card/card_TBE2_h.png                      |
-| the Black Edition3                          |           | https://www.hyundaicard.com/image/card/card_TBE3_h.png                      |
-| the Black                                   |           | https://img.hyundaicard.com/img/com/card/card_TBE4_h.png                    |
-| the Purple Edition1                         |           | https://img.hyundaicard.com/img/com/card/card_TP_h.png                      |
-| the Purple Edition2                         |           | https://img.hyundaicard.com/img/com/card/card_TPE2_h.png                    |
-| the Purple osée                             |           | https://www.hyundaicard.com/gpcc/pc/images/img_card_TPE3_h.png              |
-| the Purple                                  |           | https://img.hyundaicard.com/img/com/card/card_TPE4_h.png                    |
-| the Purple (Flutter)                        |           | https://www.hyundaicard.com/images/cardscommon/img_card_TPME4_flluter_f.png |
-| the Red Stripe                              |           | https://img.hyundaicard.com/img/com/card/card_TRE5ST_h.png                  |
-| the Red Stripe Edition2                     |           | https://img.hyundaicard.com/img/com/card/card_TRSTE2_h.png                  |
-| the Red Edition1                            |           | https://img.hyundaicard.com/img/com/card/card_TR_h.png                      |
-| the Red Edition2                            |           | https://img.hyundaicard.com/img/com/card/card_TRE2_h.png                    |
-| the Red Edition3                            |           | https://img.hyundaicard.com/img/com/card/card_TRE3_h.png                    |
-| the Red Edition4                            |           | https://www.hyundaicard.com/gpcc/pc/images/img_card_TRE4_h.png              |
-| the Red Edition5                            |           | https://www.hyundaicard.com/gpcc/pc/images/img_card_TRE5_h.png              |
-| the Red                                     |           | https://img.hyundaicard.com/img/com/card/card_TRE6_h.png                    |
-| the Orange                                  |           | https://img.hyundaicard.com/img/com/card/card_TO_h.png                      |
-| the Green                                   |           | https://img.hyundaicard.com/img/com/card/card_TG_h.png                      |
-| the Green Edition2                          |           | https://img.hyundaicard.com/img/com/card/card_TGE2_h.png                    |
-| the Green Edition3                          |           | https://img.hyundaicard.com/img/com/card/card_TGE3_h.png                    |
-| the Pink                                    |           | https://img.hyundaicard.com/img/com/card/card_TPI_h.png                     |
-| the Pink Edition2                           |           | https://img.hyundaicard.com/img/com/card/card_TPIE2_h.png                   |
-| Summit                                      |           | https://img.hyundaicard.com/img/com/card/card_SPM_h.png                     |
-| MX Black Edition2                           |           | https://img.hyundaicard.com/img/com/card/card_MXBE2_h.png                   |
-| Boutique - Copper                           |           | https://img.hyundaicard.com/img/com/card/card_BTCP_h.png                    |
-| Boutique - Velvet                           |           | https://img.hyundaicard.com/img/com/card/card_BTVV_h.png                    |
-| Boutique - Satin                            |           | https://img.hyundaicard.com/img/com/card/card_BTST_h.png                    |
-| Summit CE                                   |           | https://img.hyundaicard.com/img/com/card/card_BTMCE_h.png                   |
-| MM                                          |           | https://img.hyundaicard.com/img/com/card/card_MPE4_h.png                    |
-| M                                           |           | https://img.hyundaicard.com/img/com/card/card_ME4_h.png                     |
-| X                                           |           | https://img.hyundaicard.com/img/com/card/card_XPE4_h.png                    |
-| X Cut                                       |           | https://img.hyundaicard.com/img/com/card/card_XCUT_h.png                    |
-| X Save                                      |           | https://img.hyundaicard.com/img/com/card/card_XSAV_h.png                    |
-| Z everyday                                  |           | https://img.hyundaicard.com/img/com/card/card_ZWK_h.png                     |
-| Z family Edition2                           |           | https://img.hyundaicard.com/img/com/card/card_ZFE2_h.png                    |
-| Z work Edition2                             |           | https://img.hyundaicard.com/img/com/card/card_ZWE2_h.png                    |
-| Z play                                      |           | https://img.hyundaicard.com/img/com/card/card_ZOE2_h.png                    |
-| ZERO Up (포인트형)                              |           | https://img.hyundaicard.com/img/com/card/card_MZRUP_h.png                   |
-| ZERO Up (할인형)                               |           | https://img.hyundaicard.com/img/com/card/card_ZRUP_h.png                    |
-| ZERO Edition3 (포인트형)                        |           | https://img.hyundaicard.com/img/com/card/card_MZROE3_h.png                  |
-| ZERO Edition3 (할인형)                         |           | https://img.hyundaicard.com/img/com/card/card_ZROE3_h.png                   |
-| D                                           |           | https://img.hyundaicard.com/img/com/card/card_HCD_h.png                     |
-| H                                           |           | https://img.hyundaicard.com/img/com/card/card_HCH_h.png                     |
-| O                                           |           | https://img.hyundaicard.com/img/com/card/card_HCO_h.png                     |
-| S                                           |           | https://img.hyundaicard.com/img/com/card/card_HCS_h.png                     |
-| T                                           |           | https://img.hyundaicard.com/img/com/card/card_HCT_h.png                     |
-| American Express The Platinum Card Edition2 |           | https://img.hyundaicard.com/img/com/card/card_AMPTE2.png                    |
-| American Express Gold Card Edition2         |           | https://img.hyundaicard.com/img/com/card/card_AMGLE2.png                    |
-| American Express Green Card Edition2        |           | https://img.hyundaicard.com/img/com/card/card_AMGRE2.png                    |
-| 대한항공                                        |           | https://img.hyundaicard.com/img/com/card/card_KALE2T1_h.png                 |
-| 코스트코                                        |           | https://img.hyundaicard.com/img/com/card/card_CSTCE2_h.png                  |
-| 현대자동차                                       |           | https://img.hyundaicard.com/img/com/card/card_HMHC_h.png                    |
-| 기아                                          |           | https://img.hyundaicard.com/img/com/card/card_MRDED2_h.png                  |
-| 네이버                                         |           | https://img.hyundaicard.com/img/com/card/card_NVE2_h.png                    |
-| 올리브영                                        |           | https://img.hyundaicard.com/img/com/card/card_OLVYHC_h.png                  |
-| 넥슨                                          |           | https://img.hyundaicard.com/img/com/card/card_NXNX_h.png                    |
-| GS칼텍스                                       |           | https://img.hyundaicard.com/img/com/card/card_GEPHC_h.png                   |
-| 지마켓(스마일카드)                                  |           | https://img.hyundaicard.com/img/com/card/card_ESPE3_h.png                   |
-| SSG.COM                                     |           | https://img.hyundaicard.com/img/com/card/card_SGE2_h.png                    |
-| 이마트                                         |           | https://img.hyundaicard.com/img/com/card/card_EMTE3S_h.png                  |
-| 제네시스                                        |           | https://img.hyundaicard.com/img/com/card/card_HGEHC_h.png                   |
-| NOL·NOL 인터파크 (NOL 카드)                       |           | https://img.hyundaicard.com/img/com/card/card_NOLHC_h.png                   |
-| 쏘카                                          |           | https://img.hyundaicard.com/img/com/card/card_SCHC_h.png                    |
-| 미래에셋증권                                      |           | https://img.hyundaicard.com/img/com/card/card_MRASSTDM_h.png                |
-| 코웨이 현대카드                                    |           | https://img.hyundaicard.com/img/com/card/card_CWYHC_h.png                   |
-| LG전자 현대카드                                   |           | https://img.hyundaicard.com/img/com/card/card_LGEHC_h.png                   |
-| SK인텔릭스 현대카드                                 |           | https://img.hyundaicard.com/img/com/card/card_SKIHC_h.png                   |
-| 쿠쿠 현대카드                                     |           | https://img.hyundaicard.com/img/com/card/card_CCKHC_h.png                   |
-| 청호나이스 현대카드                                  |           | https://img.hyundaicard.com/img/com/card/card_CHHHC_h.png                   |
-| coway-현대카드M Edition3                        |           | https://img.hyundaicard.com/img/com/card/card_MCWYE3_h.png                  |
-| 현대홈쇼핑                                       |           | https://img.hyundaicard.com/img/com/card/card_HDSHE2_h.png                  |
-| 롯데백화점                                       |           | https://img.hyundaicard.com/img/com/card/card_LTTDSHCP_h.png                |
-| 예스24                                        |           | https://img.hyundaicard.com/img/com/card/card_YSHC_h.png                    |
-| The CJ                                      |           | https://img.hyundaicard.com/img/com/card/card_MCJE2_h.png                   |
-| KT                                          |           | https://img.hyundaicard.com/img/com/card/card_MKTE3TP_h.png                 |
-| SKT                                         |           | https://img.hyundaicard.com/img/com/card/card_MSKTE3_h.png                  |
-| LG U+                                       |           | https://img.hyundaicard.com/img/com/card/card_MLGTE3_h.png                  |
-| iM뱅크                                        |           | https://img.hyundaicard.com/img/com/card/card_MIMB_h.png                    |
-| DB손해보험                                      |           | https://img.hyundaicard.com/img/com/card/card_MDBI_h.png                    |
-| 현대해상                                        |           | https://img.hyundaicard.com/img/com/card/card_MHMFI_h.png                   |
-| SC제일은행                                      |           | https://img.hyundaicard.com/img/com/card/card_TRSCSTE2_h.png                |
-| 햇살론                                         |           | https://img.hyundaicard.com/img/com/card/card_SLHC_h.png                    |
-| 경차                                          |           | https://img.hyundaicard.com/img/com/card/card_MSCE2_h.png                   |
-| 화물차                                         |           | https://img.hyundaicard.com/img/com/card/card_MLSB_h.png                    |
-| MY BUSINESS the Orange                      |           | https://img.hyundaicard.com/img/com/card/card_MBTO_h.png                    |
-| MY BUSINESS Summit                          |           | https://img.hyundaicard.com/img/com/card/card_SPMMB_h.png                   |
-| MY BUSINESS M F&B                           |           | https://img.hyundaicard.com/img/com/card/card_MMBFB_h.png                   |
-| MY BUSINESS M Retail                        |           | https://img.hyundaicard.com/img/com/card/card_MMBRT_h.png                   |
-| MY BUSINESS M E-seller                      |           | https://img.hyundaicard.com/img/com/card/card_MMBES_h.png                   |
-| MY BUSINESS X F&B                           |           | https://img.hyundaicard.com/img/com/card/card_XMBFB_h.png                   |
-| MY BUSINESS X Retail                        |           | https://img.hyundaicard.com/img/com/card/card_XMBRT_h.png                   |
-| MY BUSINESS X E-seller                      |           | https://img.hyundaicard.com/img/com/card/card_XMBES_h.png                   |
-| MY BUSINESS ZERO Up (포인트형)             |           | https://img.hyundaicard.com/img/com/card/card_MBMZRUP_h.png                 |
-| MY BUSINESS ZERO Up (할인형)              |           | https://img.hyundaicard.com/img/com/card/card_MBZRUP_h.png                  |
-| MY BUSINESS ZERO(포인트형)                      |           | https://img.hyundaicard.com/img/com/card/card_MBMZRO_h.png                  |
-| MY BUSINESS ZERO(할인형)                       |           | https://img.hyundaicard.com/img/com/card/card_MBZRO_h.png                   |
-| 카카오뱅크 BUSINESS 현대카드 PRIME                   |           | https://img.hyundaicard.com/img/com/card/card_SMEKKOBP_h.png                |
-| 카카오뱅크 BUSINESS 현대카드                         |           | https://img.hyundaicard.com/img/com/card/card_SMEKKOB_h.png                 |
-| 캐시노트 BUSINESS 현대카드                          |           | https://img.hyundaicard.com/img/com/card/card_SMECN_h.png                   |
-| 현대 소상공인 특례 햇살론카드                            |           | https://img.hyundaicard.com/img/com/card/card_SLMB_h.png                    |
+| **the Black Edition1**                          |           | https://www.hyundaicard.com/image/card/card_TBE2.png                        |
+| **the Black Edition2**                          |           | https://www.hyundaicard.com/image/card/card_TBE2_h.png                      |
+| **the Black Edition3**                          |           | https://www.hyundaicard.com/image/card/card_TBE3_h.png                      |
+| **the Black**                                   |           | https://img.hyundaicard.com/img/com/card/card_TBE4_h.png                    |
+| **the Purple Edition1**                         |           | https://img.hyundaicard.com/img/com/card/card_TP_h.png                      |
+| **the Purple Edition2**                         |           | https://img.hyundaicard.com/img/com/card/card_TPE2_h.png                    |
+| **the Purple osée**                             |           | https://www.hyundaicard.com/gpcc/pc/images/img_card_TPE3_h.png              |
+| **the Purple**                                  |           | https://img.hyundaicard.com/img/com/card/card_TPE4_h.png                    |
+| **the Purple (Flutter)**                        |           | https://www.hyundaicard.com/images/cardscommon/img_card_TPME4_flluter_f.png |
+| **the Red Stripe**                              |           | https://img.hyundaicard.com/img/com/card/card_TRE5ST_h.png                  |
+| **the Red Stripe Edition2**                     |           | https://img.hyundaicard.com/img/com/card/card_TRSTE2_h.png                  |
+| **the Red Edition1**                            |           | https://img.hyundaicard.com/img/com/card/card_TR_h.png                      |
+| **the Red Edition2**                            |           | https://img.hyundaicard.com/img/com/card/card_TRE2_h.png                    |
+| **the Red Edition3**                            |           | https://img.hyundaicard.com/img/com/card/card_TRE3_h.png                    |
+| **the Red Edition4**                            |           | https://www.hyundaicard.com/gpcc/pc/images/img_card_TRE4_h.png              |
+| **the Red Edition5**                            |           | https://www.hyundaicard.com/gpcc/pc/images/img_card_TRE5_h.png              |
+| **the Red**                                     |           | https://img.hyundaicard.com/img/com/card/card_TRE6_h.png                    |
+| **the Orange**                                  |           | https://img.hyundaicard.com/img/com/card/card_TO_h.png                      |
+| **the Green**                                   |           | https://img.hyundaicard.com/img/com/card/card_TG_h.png                      |
+| **the Green Edition2**                          |           | https://img.hyundaicard.com/img/com/card/card_TGE2_h.png                    |
+| **the Green Edition3**                          |           | https://img.hyundaicard.com/img/com/card/card_TGE3_h.png                    |
+| **the Pink**                                    |           | https://img.hyundaicard.com/img/com/card/card_TPI_h.png                     |
+| **the Pink Edition2**                           |           | https://img.hyundaicard.com/img/com/card/card_TPIE2_h.png                   |
+| **Summit**                                      |           | https://img.hyundaicard.com/img/com/card/card_SPM_h.png                     |
+| **MX Black Edition2**                           |           | https://img.hyundaicard.com/img/com/card/card_MXBE2_h.png                   |
+| **Boutique - Copper**                           |           | https://img.hyundaicard.com/img/com/card/card_BTCP_h.png                    |
+| **Boutique - Velvet**                           |           | https://img.hyundaicard.com/img/com/card/card_BTVV_h.png                    |
+| **Boutique - Satin**                            |           | https://img.hyundaicard.com/img/com/card/card_BTST_h.png                    |
+| **Summit CE**                                   |           | https://img.hyundaicard.com/img/com/card/card_BTMCE_h.png                   |
+| **MM**                                          |           | https://img.hyundaicard.com/img/com/card/card_MPE4_h.png                    |
+| **M**                                           |           | https://img.hyundaicard.com/img/com/card/card_ME4_h.png                     |
+| **X**                                           |           | https://img.hyundaicard.com/img/com/card/card_XPE4_h.png                    |
+| **X Cut**                                       |           | https://img.hyundaicard.com/img/com/card/card_XCUT_h.png                    |
+| **X Save**                                      |           | https://img.hyundaicard.com/img/com/card/card_XSAV_h.png                    |
+| **Z everyday**                                  |           | https://img.hyundaicard.com/img/com/card/card_ZWK_h.png                     |
+| **Z family Edition2**                           |           | https://img.hyundaicard.com/img/com/card/card_ZFE2_h.png                    |
+| **Z work Edition2**                             |           | https://img.hyundaicard.com/img/com/card/card_ZWE2_h.png                    |
+| **Z play**                                      |           | https://img.hyundaicard.com/img/com/card/card_ZOE2_h.png                    |
+| **ZERO Up (포인트형)**                              |           | https://img.hyundaicard.com/img/com/card/card_MZRUP_h.png                   |
+| **ZERO Up (할인형)**                               |           | https://img.hyundaicard.com/img/com/card/card_ZRUP_h.png                    |
+| **ZERO Edition3 (포인트형)**                        |           | https://img.hyundaicard.com/img/com/card/card_MZROE3_h.png                  |
+| **ZERO Edition3 (할인형)**                         |           | https://img.hyundaicard.com/img/com/card/card_ZROE3_h.png                   |
+| **D**                                           |           | https://img.hyundaicard.com/img/com/card/card_HCD_h.png                     |
+| **H**                                           |           | https://img.hyundaicard.com/img/com/card/card_HCH_h.png                     |
+| **O**                                           |           | https://img.hyundaicard.com/img/com/card/card_HCO_h.png                     |
+| **S**                                           |           | https://img.hyundaicard.com/img/com/card/card_HCS_h.png                     |
+| **T**                                           |           | https://img.hyundaicard.com/img/com/card/card_HCT_h.png                     |
+| **American Express The Platinum Card Edition2** |           | https://img.hyundaicard.com/img/com/card/card_AMPTE2.png                    |
+| **American Express Gold Card Edition2**         |           | https://img.hyundaicard.com/img/com/card/card_AMGLE2.png                    |
+| **American Express Green Card Edition2**        |           | https://img.hyundaicard.com/img/com/card/card_AMGRE2.png                    |
+| **대한항공**                                        |           | https://img.hyundaicard.com/img/com/card/card_KALE2T1_h.png                 |
+| **코스트코**                                        |           | https://img.hyundaicard.com/img/com/card/card_CSTCE2_h.png                  |
+| **현대자동차**                                       |           | https://img.hyundaicard.com/img/com/card/card_HMHC_h.png                    |
+| **기아**                                          |           | https://img.hyundaicard.com/img/com/card/card_MRDED2_h.png                  |
+| **네이버**                                         |           | https://img.hyundaicard.com/img/com/card/card_NVE2_h.png                    |
+| **올리브영**                                        |           | https://img.hyundaicard.com/img/com/card/card_OLVYHC_h.png                  |
+| **넥슨**                                          |           | https://img.hyundaicard.com/img/com/card/card_NXNX_h.png                    |
+| **GS칼텍스**                                       |           | https://img.hyundaicard.com/img/com/card/card_GEPHC_h.png                   |
+| **지마켓(스마일카드)**                                  |           | https://img.hyundaicard.com/img/com/card/card_ESPE3_h.png                   |
+| **SSG.COM**                                     |           | https://img.hyundaicard.com/img/com/card/card_SGE2_h.png                    |
+| **이마트**                                         |           | https://img.hyundaicard.com/img/com/card/card_EMTE3S_h.png                  |
+| **제네시스**                                        |           | https://img.hyundaicard.com/img/com/card/card_HGEHC_h.png                   |
+| **NOL·NOL 인터파크 (NOL 카드)**                       |           | https://img.hyundaicard.com/img/com/card/card_NOLHC_h.png                   |
+| **쏘카**                                          |           | https://img.hyundaicard.com/img/com/card/card_SCHC_h.png                    |
+| **미래에셋증권**                                      |           | https://img.hyundaicard.com/img/com/card/card_MRASSTDM_h.png                |
+| **코웨이 현대카드**                                    |           | https://img.hyundaicard.com/img/com/card/card_CWYHC_h.png                   |
+| **LG전자 현대카드**                                   |           | https://img.hyundaicard.com/img/com/card/card_LGEHC_h.png                   |
+| **SK인텔릭스 현대카드**                                 |           | https://img.hyundaicard.com/img/com/card/card_SKIHC_h.png                   |
+| **쿠쿠 현대카드**                                     |           | https://img.hyundaicard.com/img/com/card/card_CCKHC_h.png                   |
+| **청호나이스 현대카드**                                  |           | https://img.hyundaicard.com/img/com/card/card_CHHHC_h.png                   |
+| **coway-현대카드M Edition3**                        |           | https://img.hyundaicard.com/img/com/card/card_MCWYE3_h.png                  |
+| **현대홈쇼핑**                                       |           | https://img.hyundaicard.com/img/com/card/card_HDSHE2_h.png                  |
+| **롯데백화점**                                       |           | https://img.hyundaicard.com/img/com/card/card_LTTDSHCP_h.png                |
+| **예스24**                                        |           | https://img.hyundaicard.com/img/com/card/card_YSHC_h.png                    |
+| **The CJ**                                      |           | https://img.hyundaicard.com/img/com/card/card_MCJE2_h.png                   |
+| **KT**                                          |           | https://img.hyundaicard.com/img/com/card/card_MKTE3TP_h.png                 |
+| **SKT**                                         |           | https://img.hyundaicard.com/img/com/card/card_MSKTE3_h.png                  |
+| **LG U+**                                       |           | https://img.hyundaicard.com/img/com/card/card_MLGTE3_h.png                  |
+| **iM뱅크**                                        |           | https://img.hyundaicard.com/img/com/card/card_MIMB_h.png                    |
+| **DB손해보험**                                      |           | https://img.hyundaicard.com/img/com/card/card_MDBI_h.png                    |
+| **현대해상**                                        |           | https://img.hyundaicard.com/img/com/card/card_MHMFI_h.png                   |
+| **SC제일은행**                                      |           | https://img.hyundaicard.com/img/com/card/card_TRSCSTE2_h.png                |
+| **햇살론**                                         |           | https://img.hyundaicard.com/img/com/card/card_SLHC_h.png                    |
+| **경차**                                          |           | https://img.hyundaicard.com/img/com/card/card_MSCE2_h.png                   |
+| **화물차**                                         |           | https://img.hyundaicard.com/img/com/card/card_MLSB_h.png                    |
+| **MY BUSINESS the Orange**                      |           | https://img.hyundaicard.com/img/com/card/card_MBTO_h.png                    |
+| **MY BUSINESS Summit**                          |           | https://img.hyundaicard.com/img/com/card/card_SPMMB_h.png                   |
+| **MY BUSINESS M F&B**                           |           | https://img.hyundaicard.com/img/com/card/card_MMBFB_h.png                   |
+| **MY BUSINESS M Retail**                        |           | https://img.hyundaicard.com/img/com/card/card_MMBRT_h.png                   |
+| **MY BUSINESS M E-seller**                      |           | https://img.hyundaicard.com/img/com/card/card_MMBES_h.png                   |
+| **MY BUSINESS X F&B**                           |           | https://img.hyundaicard.com/img/com/card/card_XMBFB_h.png                   |
+| **MY BUSINESS X Retail**                        |           | https://img.hyundaicard.com/img/com/card/card_XMBRT_h.png                   |
+| **MY BUSINESS X E-seller**                      |           | https://img.hyundaicard.com/img/com/card/card_XMBES_h.png                   |
+| **MY BUSINESS ZERO Up (포인트형)**             |           | https://img.hyundaicard.com/img/com/card/card_MBMZRUP_h.png                 |
+| **MY BUSINESS ZERO Up (할인형)**              |           | https://img.hyundaicard.com/img/com/card/card_MBZRUP_h.png                  |
+| **MY BUSINESS ZERO(포인트형)**                      |           | https://img.hyundaicard.com/img/com/card/card_MBMZRO_h.png                  |
+| **MY BUSINESS ZERO(할인형)**                       |           | https://img.hyundaicard.com/img/com/card/card_MBZRO_h.png                   |
+| **카카오뱅크 BUSINESS 현대카드 PRIME**                   |           | https://img.hyundaicard.com/img/com/card/card_SMEKKOBP_h.png                |
+| **카카오뱅크 BUSINESS 현대카드**                         |           | https://img.hyundaicard.com/img/com/card/card_SMEKKOB_h.png                 |
+| **캐시노트 BUSINESS 현대카드**                          |           | https://img.hyundaicard.com/img/com/card/card_SMECN_h.png                   |
+| **현대 소상공인 특례 햇살론카드**                            |           | https://img.hyundaicard.com/img/com/card/card_SLMB_h.png                    |
+
 
 
 </details>
